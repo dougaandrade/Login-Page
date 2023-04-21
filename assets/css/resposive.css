@@ -1,0 +1,19 @@
+@media screen and (max-width: 767px){
+section{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+}
+.logo-form{
+  width:40%;
+
+}
+.form-content{
+  padding: 20%;
+  height: 80vh;
+  width: 95%;
+}
+
+}
